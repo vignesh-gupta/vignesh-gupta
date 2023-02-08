@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vighneshgupta32@gmail.com**
 
-- ⚡ Fun fact **Love to eat Chocolate while coding.**
+- ⚡ Fun fact <strong>Love to eat Chocolate while coding.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
