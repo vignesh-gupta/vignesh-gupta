@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vighneshgupta32@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/vignesh-gupta/vignesh-gupta/blob/master/Vignesh_Gupta_Resume.pdf](https://github.com/vignesh-gupta/vignesh-gupta/blob/master/Vignesh_Gupta_Resume.pdf)
+- 📄 Know about my experiences [Vignesh_Gupta_Resume.pdf](https://github.com/vignesh-gupta/vignesh-gupta/blob/master/Vignesh_Gupta_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
