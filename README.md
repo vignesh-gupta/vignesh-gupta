@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vighneshgupta9" target="blank"><img src="https://img.shields.io/twitter/follow/vighneshgupta9?logo=twitter&style=for-the-badge" alt="vighneshgupta9" /></a> </p>
 
-- 🔭 I’m currently working on [explorix](https://github.com/vignesh-gupta/explorix)
+- 🔭 I’m currently working on [My Portfolio](https://vigneshgupta.vercel.app/)
 
 - 🌱 I’m currently learning **Next13 and Cloud (AWS)**
 
-- 👯 I’m looking to collaborate on [explorix](https://github.com/vignesh-gupta/explorix)
+- 👯 I’m looking to collaborate on [My Portfolio with Next13 + Sanity](https://github.com/vignesh-gupta/vignesh_gupta-portfolio)
 
 - 👨‍💻 All of my projects are available at [https://vigneshgupta.netlify.app/](https://vigneshgupta.netlify.app/)
 
