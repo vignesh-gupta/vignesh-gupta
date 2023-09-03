@@ -85,7 +85,7 @@
 <details>
   <summary>Open to see Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-gupta&layout=compact&show_icons=true&theme=dark)
 
   ![Vignesh repo Stats](https://github-readme-stats.vercel.app/api?username=vignesh-gupta&hide=contribs&show_icons=true&theme=dark)
 </details>
