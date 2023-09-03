@@ -1,12 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Vignesh Gupta</h1>
-
 <h2 align="center">A passionate frontend developer from India</h2>
 
-## About me 🚀
+<h1 align="center"> About me 🚀 </h1>
 
-<img class="fit-picture" align="right"
-     width="200" height="200"
-     src="https://raw.githubusercontent.com/vignesh-gupta/vignesh-gupta/master/assets/hero.jpeg" />
+<img
+  class="fit-picture" align="right"
+  width="300" height="300"
+  src="https://raw.githubusercontent.com/vignesh-gupta/vignesh-gupta/master/assets/hero.png"
+/>
 
 <h3 align="left">
 
