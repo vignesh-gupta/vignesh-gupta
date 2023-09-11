@@ -2,12 +2,11 @@
 <h2 align="center">A passionate frontend developer from India</h2>
 
 <h1 align="center"> About me 🚀 </h1>
-![profile]()
 
 <img
   class="fit-picture" align="right"
   width="300" height="300"
-  src="https://github.com/vignesh-gupta/vignesh-gupta/assets/52371759/30840bd0-d3b8-4888-a462-7c32f075c9c4"
+  src="https://github.com/vignesh-gupta/vignesh-gupta/assets/52371759/b41ba23b-f0df-4ad5-b1c8-b96aa92a5d1f"
 />
 
 <h3 align="left">
