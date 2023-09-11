@@ -7,7 +7,7 @@
 <img
   class="fit-picture" align="right"
   width="300" height="300"
-  src="https://raw.githubusercontent.com/vignesh-gupta/vignesh-gupta/master/assets/hero.png"
+  src="https://github.com/vignesh-gupta/vignesh-gupta/assets/52371759/30840bd0-d3b8-4888-a462-7c32f075c9c4"
 />
 
 <h3 align="left">
