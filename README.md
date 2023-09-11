@@ -2,6 +2,7 @@
 <h2 align="center">A passionate frontend developer from India</h2>
 
 <h1 align="center"> About me 🚀 </h1>
+![profile]()
 
 <img
   class="fit-picture" align="right"
