@@ -17,7 +17,7 @@
 
 - 🤝 Looking to collaborate on Project based on NextJS/ ReactJS
 
-- 👨‍💻 Checkout my portfolio at **<https://vigneshgupta.netlify.app/>**
+- 👨‍💻 Checkout my portfolio at **<https://vigneshgupta.vercel.app/>**
 
 - 💬 Ask your question about **ReactJS/NextJS, NodeJS** over [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
 
