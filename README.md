@@ -11,15 +11,15 @@
 
 <h3 align="left">
 
-- 🔭 I’m currently a Software Engineer [HCLTECH](https://hcltech.com/)
+- 💻 I’m currently a Software Engineer [HCLTECH](https://hcltech.com/)
 
-- 🌱 I’m currently learning **Next13 and Cloud (AWS)**
+- 🌱 I’m currently learning **Next 13 and Cloud Technologies (AWS)**
 
-- 🤝 Looking to collaborate on Project based on NextJS/ ReactJS
+- 🤝 Looking to collaborate on Project based on Next JS / React JS
 
 - 👨‍💻 Checkout my portfolio at **<https://vigneshgupta.vercel.app/>**
 
-- 💬 Ask your question about **ReactJS/NextJS, NodeJS** over [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
+- 💬 Ask your question about **ReactJS / NextJS / Web Developement** over [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
 
 - 📫 How to reach me **My Socials** / **<vighneshgupta32@gmail.com>**
 
@@ -77,7 +77,7 @@
 
 [![Companion IO](https://github-readme-stats.vercel.app/api/pin/?username=vignesh-gupta&repo=companion-io&show_owner=true&theme=dark)](https://github.com/vignesh-gupta/companion-io)
 
-[![Companion IO](https://github-readme-stats.vercel.app/api/pin/?username=vignesh-gupta&repo=vignesh_gupta-portfolio&show_owner=true&theme=dark)](https://github.com/vignesh-gupta/vignesh_gupta-portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vignesh-gupta&repo=vignesh_gupta-portfolio&show_owner=true&theme=dark)](https://github.com/vignesh-gupta/vignesh_gupta-portfolio)
 
 </details>
 <h1>Github Stats  📈 </h1>
