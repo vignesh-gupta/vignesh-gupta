@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Vignesh Gupta</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
 
 <h1 align="center"> About me 🚀 </h1>
 
