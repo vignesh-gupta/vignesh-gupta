@@ -2,8 +2,6 @@
 
 <h1 align="center"> About me 🚀 </h1>
 
-
-
 <img
   class="fit-picture" align="right"
   width="300" height="300"
@@ -31,7 +29,7 @@
 <br />
 <br />
 
-<h1 align="center">Tech Stack 💻</h1>
+<h1 align="center">Tech Stacks 💻</h1>
 
 <div align="center">
 
