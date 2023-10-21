@@ -10,15 +10,15 @@
 
 <h3 align="left">
 
-- 💻 I’m currently a Software Engineer [HCLTECH](https://hcltech.com/)
+- 💻 Currently a Software Engineer [HCLTECH](https://hcltech.com/)
 
-- 🌱 I’m currently learning **Next 13 and Cloud Technologies (AWS)**
+- 🌱 Diving deep in **Next 13 and Cloud Technologies (AWS)**
 
-- 🤝 Looking to collaborate on Project based on Next JS / React JS
+- 🤝 Looking to collaborate on Project based on **Next JS / React JS**
 
 - 👨‍💻 Checkout my portfolio at **<https://vigneshgupta.vercel.app/>**
 
-- 💬 Ask your question about **ReactJS / NextJS / Web Developement** over [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
+- 💬 Drop yours question about **ReactJS / NextJS / Web Developement** [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
 
 - 📫 How to reach me **My Socials** / **<vighneshgupta32@gmail.com>**
 
