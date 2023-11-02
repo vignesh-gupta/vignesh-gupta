@@ -12,7 +12,7 @@
 
 - 💻 Currently a Software Engineer [HCLTECH](https://hcltech.com/)
 
-- 🌱 Diving deep in **Next 13 and Cloud Technologies (AWS)**
+- 🌱 Diving deep in **Next JS and Cloud Technologies (AWS)**
 
 - 🤝 Looking to collaborate on Project based on **Next JS / React JS**
 
@@ -25,6 +25,12 @@
 - 📄 Know about my experiences via [Resume](https://github.com/vignesh-gupta/vignesh-gupta/blob/master/Vignesh_Gupta_Resume.pdf)
 
 </h3>
+
+<br />
+<br />
+
+<h1 align="center">Socials 🫱🏼‍🫲🏿</h1>
+<!--TODO: ADD MY SOCIALS -->
 
 <br />
 <br />
