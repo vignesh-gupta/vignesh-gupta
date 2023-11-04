@@ -31,6 +31,13 @@
 
 <h1 align="center">Socials 🫱🏼‍🫲🏿</h1>
 <!--TODO: ADD MY SOCIALS -->
+<a href="https://twitter.com/VighneshGupta9" target="_blank">
+  <img src="https://img.shields.io/badge/@VighneshGupta9-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vigneshgupta/" target="_blank">
+  <img src="https://img.shields.io/badge/@vigneshgupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br />
 <br />
