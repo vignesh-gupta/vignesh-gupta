@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Vignesh Gupta</h1>
+![portfolio thumbnail](https://github.com/vignesh-gupta/vignesh-gupta/assets/52371759/8cddf809-bc72-4582-a75a-bbe4f1eb8e5c)
+
 
 <h1 align="center"> About me 🚀 </h1>
 
