@@ -17,13 +17,13 @@
 
 - 🤝 Looking to collaborate on Project based on **Next JS / React JS**
 
-- 👨‍💻 Portfolio - **[vigneshgupta.tech](https://vigneshgupta.tech/)**
+- 👨‍💻 Portfolio - **[vigneshgupta.me](https://vigneshgupta.me/)**
 
 - 💬 Drop yours question about **ReactJS / NextJS / Web Developement** [here](https://github.com/vignesh-gupta/vignesh-gupta/issues)
 
-- 📫 How to reach me **My Socials** / **<vighneshgupta32@gmail.com>**
+- 📫 How to reach me **socials** / **<vighneshgupta32@gmail.com>**
 
-- 📄 Know about my experiences via [Resume](https://github.com/vignesh-gupta/vignesh-gupta/blob/master/Vignesh_Gupta_Resume.pdf)
+- 📄 Know about my experiences via [Resume](https://www.vigneshgupta.me/resume.pdf)
 
 </h3>
 
