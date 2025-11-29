@@ -11,7 +11,7 @@
 
 <h3 align="left">
 
-- 💻 Currently a Software Engineer [HCLTECH](https://hcltech.com/)
+- 💻 Currently a Consultant (SDE) @ [Deloitte](https://www.deloitte.com/in/en.html)
 
 - 🌱 Diving deep in **Next JS and Cloud Technologies (AWS)**
 
